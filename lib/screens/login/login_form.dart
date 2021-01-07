@@ -175,7 +175,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       child: Row(
                         children: <Widget>[
                           Image(image: AssetImage('assets/softrig.png')),
-                          Text('Code: $code'),
+                          // Text('Code: $code'),
                         ],
                       ),
                     ),
