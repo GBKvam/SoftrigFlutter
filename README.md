@@ -1,7 +1,8 @@
 # Softrig Flutter hackaton Hovden 2021
 Flutter client for softrig
-
-Enkel flutter klient for innloging og produkt liste med ny/endre/slett funksjon
+ - Innloging
+ - Produkt liste
+ - Legg til nye/endre/slette funksjon for produkter (noen felter)
 
 
 ![alt text](https://github.com/GBKvam/SoftrigFlutter/blob/main/assets/softrig.png)
