@@ -31,7 +31,7 @@ class ServerUrls{
     this.authUrl = "--- DOMAIN -----/connect/authorize", 
     this.tokenUrl = "--- DOMAIN -----/connect/token",
     this.baseUrl = "--- DOMAIN -----",
-    this.redirectUrl = "http://localhost"
+    this.redirectUrl = "--- DOMAIN -----"
     }
   );
 
