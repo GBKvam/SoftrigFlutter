@@ -1,6 +1,6 @@
 ///
 /// THIS IS NOT THE WAY TO DO IT !!!!!!!!!!!!!!!!
-/// JUST NEED A PLACE TO PUT THEM 
+/// JUST NEEDED A PLACE TO PUT THEM 
 ///
 
 
@@ -31,7 +31,7 @@ class ServerUrls{
     this.authUrl = "--- DOMAIN -----/connect/authorize", 
     this.tokenUrl = "--- DOMAIN -----/connect/token",
     this.baseUrl = "--- DOMAIN -----",
-    this.redirectUrl = "http://localhost:8080"
+    this.redirectUrl = "http://localhost"
     }
   );
 
