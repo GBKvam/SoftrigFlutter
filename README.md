@@ -8,5 +8,7 @@ Flutter client for softrig
 ![alt text](https://github.com/GBKvam/SoftrigFlutter/blob/main/assets/softrig.png)
 
 -------
-
-
+-------
+-------
+-------
+-------
